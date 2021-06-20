@@ -1,4 +1,4 @@
-(There is my CV below) 
+(This is my CV) 
 [CVForJob (1).pdf](https://github.com/Muhammad-uzbek/Muhammad-uzbek/files/6682099/CVForJob.1.pdf)
 
 - 👋 Hi, I’m Muhammadqodir;
