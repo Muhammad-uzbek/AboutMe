@@ -13,7 +13,7 @@ These are my web-development projects:
 - Face detection: https://yuz-aniqla.netlify.app/;
 - Currency exchange: https://dollor-rassiskiy.netlify.app/;
 - Eid Countdown: https://hayit-qachanakan.netlify.app/;
-- E-commerence for portfolio: https://sharp-panini-adb16d.netlify.app;
+- E-commerence for portfolio: https://ilindim.netlify.app;
 - Nowadays I'm creating a website which is can generate quotes covered by pretty images and videos.
 
 These are my web-design portfolio:
