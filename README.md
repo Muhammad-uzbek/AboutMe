@@ -9,9 +9,10 @@ I know HTML, CSS, Bootstrap, Tailwind, Javascript, jQuery. I began learning web 
 
 These are my web-development projects:
 - Landing page for Russian construction company: http://lamiafa.ru;
-- Face detection: https://determined-curran-67269e.netlify.app/;
-- Currency exchange: https://wizardly-curie-b375b3.netlify.app/;
-- Eid Countdown: https://sad-lamarr-65a349.netlify.app/;
+- Weather app in ReactJS: https://ohibobo.netlify.app/;
+- Face detection: https://yuz-aniqla.netlify.app/;
+- Currency exchange: https://dollor-rassiskiy.netlify.app/;
+- Eid Countdown: https://hayit-qachanakan.netlify.app/;
 - E-commerence for portfolio: https://sharp-panini-adb16d.netlify.app;
 - Nowadays I'm creating a website which is can generate quotes covered by pretty images and videos.
 
