@@ -4,9 +4,9 @@
 
 - 👋 Hi, I’m Muhammadqodir;
 - 👀 I’m interested in Web-development;
-- 🌱 I’m currently learning React;
+- 🌱 I’m currently learning Redux;
 I'm junior Front-end developer with a year of experience and junior web-design.
-I know HTML, CSS, Bootstrap, Tailwind, Javascript, jQuery. I began learning web development in May 2020. I have several projects on those. I'm currently learning ReactJS. I had code in C++ for algorithmic exercises at the acmp.ru and codeforces.com before I learned web development.
+I know HTML, CSS, Bootstrap, Tailwind, Javascript, jQuery, ReactJS. I began learning web development in May 2020. I have several projects on those. I had code in C++ for algorithmic exercises at the acmp.ru and codeforces.com before I learned web development.
 
 These are my web-development projects:
 - Landing page for Russian construction company: http://lamiafa.ru;
