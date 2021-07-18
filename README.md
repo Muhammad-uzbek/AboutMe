@@ -1,5 +1,6 @@
 (This is my CV) 
-[CVForJob (1).pdf](https://github.com/Muhammad-uzbek/Muhammad-uzbek/files/6682099/CVForJob.1.pdf)
+[Resume-Mukhammadqodir-Abdurakhmanov (3).pdf](https://github.com/Muhammad-uzbek/AboutMe/files/6836398/Resume-Mukhammadqodir-Abdurakhmanov.3.pdf)
+
 
 - 👋 Hi, I’m Muhammadqodir;
 - 👀 I’m interested in Web-development;
