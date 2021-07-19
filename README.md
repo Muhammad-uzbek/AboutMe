@@ -22,7 +22,7 @@ These are my web-design portfolio:
 - Web design for construction company: https://www.figma.com/file/2BbdiaJZ5TdvSZgiQ5AGoZ/Untitled?node-id=0%3A1;
                                        https://www.figma.com/file/GgWYs0tNNryekViUQBnLbr/Untitled?node-id=1%3A2;
 - Web-design for E-commerence website: https://www.figma.com/file/oVidLHBM5X9CziOyoHt2Je/Untitled?node-id=0%3A1
--Web-design for freelance website:     https://www.figma.com/file/sRtngoLuMfJXqRbLuhz9tD/Untitled?node-id=1%3A2;
+- Web-design for freelance website:     https://www.figma.com/file/sRtngoLuMfJXqRbLuhz9tD/Untitled?node-id=1%3A2;
 <!---
 Muhammad-uzbek/Muhammad-uzbek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
