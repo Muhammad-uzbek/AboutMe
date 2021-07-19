@@ -14,8 +14,8 @@ These are my web-development projects:
 - Face detection: https://yuz-aniqla.netlify.app/;
 - Currency exchange: https://dollor-rassiskiy.netlify.app/;
 - Eid Countdown: https://hayit-qachanakan.netlify.app/;
-- E-commerence for portfolio: https://ilindim.netlify.app;
-- Nowadays I'm creating a website which is can generate quotes covered by pretty images and videos.
+- E-commerence for portfolio(uncompleted): https://ilindim.netlify.app;
+- Qoute generator(uncompleted): https://iqtibos.netlify.app
 
 These are my web-design portfolio:
 - Web-design for Jeans company:         https://www.figma.com/file/8VtI1DBy8yIC6AqsXnd5uQ/Untitled?node-id=0%3A1;
