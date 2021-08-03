@@ -9,13 +9,12 @@ I'm junior Front-end developer with a year of experience and junior web-design.
 I know HTML, CSS, Bootstrap, Tailwind, Javascript, jQuery, ReactJS. I began learning web development in May 2020. I have several projects on those. I had code in C++ for algorithmic exercises at the acmp.ru and codeforces.com before I learned web development.
 
 These are my web-development projects:
-- Landing page for Russian construction company: http://lamiafa.ru;
 - Weather app in ReactJS: https://ohibobo.netlify.app/;
 - Face detection: https://yuz-aniqla.netlify.app/;
 - Currency exchange: https://dollor-rassiskiy.netlify.app/;
-- Eid Countdown: https://hayit-qachanakan.netlify.app/;
 - E-commerence for portfolio(uncompleted): https://ilindim.netlify.app;
 - Qoute generator(uncompleted): https://iqtibos.netlify.app
+- And I have created CV maker with vue;
 
 These are my web-design portfolio:
 - Web-design for Jeans company:         https://www.figma.com/file/8VtI1DBy8yIC6AqsXnd5uQ/Untitled?node-id=0%3A1;
