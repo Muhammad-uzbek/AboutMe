@@ -1,9 +1,9 @@
 [Click to download my resume](https://github.com/Muhammad-uzbek/AboutMe/files/7402695/Resume-Mukhammadqodir-Abdurakhmanov-1.pdf)
 
 These are my web-development projects:
-- Website for Maxcellon: [link](https://www.maxcellon.uz/);
-- Weather app in ReactJS: [link](https://ohibobo.netlify.app/);
-- Face detection: [link](https://yuz-aniqla.netlify.app/);
+* Website for Maxcellon: [link](https://www.maxcellon.uz/);
+* Weather app in ReactJS: [link](https://ohibobo.netlify.app/);
+* Face detection: [link](https://yuz-aniqla.netlify.app/);
 - Currency exchange: [link](https://dollor-rassiskiy.netlify.app/);
 - E-commerence for portfolio(uncompleted): [link](https://ilindim.netlify.app);
 - Qoute generator(uncompleted):[link](https://iqtibos.netlify.app);
