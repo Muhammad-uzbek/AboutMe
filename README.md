@@ -1,6 +1,6 @@
-#[Click to download my resume](https://github.com/Muhammad-uzbek/AboutMe/files/7402695/Resume-Mukhammadqodir-Abdurakhmanov-1.pdf)
+**[Click to download my resume]**(https://github.com/Muhammad-uzbek/AboutMe/files/7402695/Resume-Mukhammadqodir-Abdurakhmanov-1.pdf)
 
-##These are my web-development projects:
+**These are my web-development projects:**
 - Website for Maxcellon: [link](https://www.maxcellon.uz/);
 - Weather app in ReactJS: [link](https://ohibobo.netlify.app/);
 - Face detection: [link](https://yuz-aniqla.netlify.app/);
@@ -9,7 +9,7 @@
 - Qoute generator(uncompleted):[link](https://iqtibos.netlify.app);
 - And I have created CV maker with vue but I can't build for production.
 
-##These are my web-design portfolio:
+**These are my web-design portfolio:**
 - Web-design for education centre:     [link](https://www.figma.com/file/BtpnFjH6SXvDbNcmURAfss/Untitled?node-id=0%3A1);
 - Web-design for Jeans company:        [link](https://www.figma.com/file/8VtI1DBy8yIC6AqsXnd5uQ/Untitled?node-id=0%3A1);
 - Web design for construction company: [link](https://www.figma.com/file/2BbdiaJZ5TdvSZgiQ5AGoZ/Untitled?node-id=0%3A1);
