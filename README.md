@@ -9,7 +9,6 @@
 - Face detection: [link](https://yuz-aniqla.netlify.app/);
 - Currency exchange: [link](https://dollor-rassiskiy.netlify.app/);
 - E-commerence for portfolio(uncompleted): [link](https://ilindim.netlify.app);
-- Qoute generator(uncompleted):[link](https://iqtibos.netlify.app);
 - And I have created CV maker with vue but I can't build for production.
 
 **These are my web-design portfolio:**
