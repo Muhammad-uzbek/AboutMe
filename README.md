@@ -2,7 +2,7 @@
 
 **These are my web-development projects:**
 - Website for Maxcellon: [link](https://www.maxcellon.uz/);
-- Website for Wemax which is telecom and network company: [link](wemaxpro.com);
+- Website for Wemax which is telecom and network company: [link]((https://wemaxpro.com);
 
 - Coronavirus' statistics app in ReactJS: [link](https://corona-stat.netlify.app/);
 - Weather app in ReactJS: [link](https://ohibobo.netlify.app/);
