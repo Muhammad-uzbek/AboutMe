@@ -1,7 +1,7 @@
 [**Click to download my resume**](https://github.com/Muhammad-uzbek/AboutMe/files/7402695/Resume-Mukhammadqodir-Abdurakhmanov-1.pdf)
 
 **These are my web-development projects:**
-- Website for Maxcellon: [link](https://www.maxcellon.uz/) [Figma](https://www.figma.com/file/HvaPStSivHENQcOFZyrIwJ/Maxcelon?node-id=334%3A0););
+- Website for Maxcellon: [link](https://www.maxcellon.uz/) |  [Figma](https://www.figma.com/file/HvaPStSivHENQcOFZyrIwJ/Maxcelon?node-id=334%3A0);
 - Website for Wemax which is telecom and network company: [link](https://wemaxpro.com);
 
 - Coronavirus' statistics app in ReactJS: [link](https://corona-stat.netlify.app/);
