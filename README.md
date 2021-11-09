@@ -1,4 +1,4 @@
-[**Click to download my resume**](https://github.com/Muhammad-uzbek/AboutMe/files/7402695/Resume-Mukhammadqodir-Abdurakhmanov-1.pdf)
+[**Click to download my resume**](https://github.com/Muhammad-uzbek/AboutMe/files/7402695/Resume-Mukhammadqodir-Abdurakhmanov-1.pdf):arrow_down:
 
 <!---
 Muhammad-uzbek/Muhammad-uzbek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
