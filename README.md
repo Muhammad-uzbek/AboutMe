@@ -3,7 +3,7 @@
 **These are my web-development projects:**
 - Website for Maxcellon: [link](https://www.maxcellon.uz/) |  [Figma](https://www.figma.com/file/HvaPStSivHENQcOFZyrIwJ/Maxcelon?node-id=334%3A0);
 - Website for Wemax which is telecom and network company: [link](https://wemaxpro.com);
-
+- Quotator - it's generator that shows and download famous quotes on beautiful designed images, built on VueJS: [link](https://quotator.netlify.app) 
 - Coronavirus' statistics app in ReactJS: [link](https://corona-stat.netlify.app/);
 - Weather app in ReactJS: [link](https://ohibobo.netlify.app/);
 - Face detection: [link](https://yuz-aniqla.netlify.app/);
