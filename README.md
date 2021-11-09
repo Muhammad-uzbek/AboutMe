@@ -1,24 +1,18 @@
 [**Click to download my resume**](https://github.com/Muhammad-uzbek/AboutMe/files/7402695/Resume-Mukhammadqodir-Abdurakhmanov-1.pdf)
 
-**These are my web-development projects:**
-- Website for Maxcellon: [link](https://www.maxcellon.uz/) |  [Figma](https://www.figma.com/file/HvaPStSivHENQcOFZyrIwJ/Maxcelon?node-id=334%3A0);
-- Website for Wemax which is telecom and network company: [link](https://wemaxpro.com);
-- Quotator - it's generator that shows and download famous quotes on beautiful designed images, built on VueJS: [link](https://quotator.netlify.app) 
-- Coronavirus' statistics app in ReactJS: [link](https://corona-stat.netlify.app/);
-- Weather app in ReactJS: [link](https://ohibobo.netlify.app/);
-- Face detection: [link](https://yuz-aniqla.netlify.app/);
-- Currency exchange: [link](https://dollor-rassiskiy.netlify.app/);
-- E-commerence for portfolio(uncompleted): [link](https://ilindim.netlify.app);
-- And I have created CV maker with vue but I can't build for production.
-
-**These are my web-design portfolio:**
-- Web-design for education centre:     [link](https://www.figma.com/file/BtpnFjH6SXvDbNcmURAfss/Untitled?node-id=0%3A1);
-- Web-design for Jeans company:        [link](https://www.figma.com/file/8VtI1DBy8yIC6AqsXnd5uQ/Untitled?node-id=0%3A1);
-- Web design for construction company: [link](https://www.figma.com/file/2BbdiaJZ5TdvSZgiQ5AGoZ/Untitled?node-id=0%3A1);
-                                       [link](https://www.figma.com/file/GgWYs0tNNryekViUQBnLbr/Untitled?node-id=1%3A2);
-- Web-design for E-commerence website: [link](https://www.figma.com/file/oVidLHBM5X9CziOyoHt2Je/Untitled?node-id=0%3A1);
-- Web-design for freelance website:    [link](https://www.figma.com/file/sRtngoLuMfJXqRbLuhz9tD/Untitled?node-id=1%3A2);
 <!---
 Muhammad-uzbek/Muhammad-uzbek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Project's name | Description | Used technologies | 
+---------------|-------------|-------------------|
+[Maxcellon](https://www.maxcellon.uz/)| Real, commercial project for a company which products cars/machines for construction industry. | jQuery, GSAP, Swiper.js, [Figma](https://www.figma.com/file/HvaPStSivHENQcOFZyrIwJ/Maxcelon?node-id=334%3A0)
+[Wemax](https://wemaxpro.com)| Project for Wemax which is UAE's telecom and network company. | GSAP, Gulp, SCSS, Swiper.js, Figma
+[Quotator](https://quotator.netlify.app) | A service that generate famous quotes on well-designed images. | VueJS, Vuesax, webpack, Vue Router, html2canvas, Axios
+Resume maker | A service to create and to download a resume, but I couldn't build for production cause of a bug on building, but you can see on [this github repo](https://github.com/Muhammad-uzbek/vue-resume-latest) | VueJS, file-saver, less, webpack
+[BM HisoBOT](https://t.me/bmhisobot) |  A private telegram bot that clients can get their debt/fee with this market. You can type this fake number(991112233) to see how works this bot | NodeJS, SheetDB, node-telegram-bot-api
+[Corona-stat](https://corona-stat.netlify.app/)| A Web app that shows you statistics of Coronavirus around the world. | React.js, Chart.js, Material UI, Axios
+[Weather app](https://ohibobo.netlify.app/) | Just a my first web app in React.js | React.js
+[Face detection](https://yuz-aniqla.netlify.app/)| Face detection app predicts your age, gender and mood, then accordingly writes humour or compliment | Vanilla.JS( Promises, Canvas), Face-api.js
+[Currency exchange](https://dollor-rassiskiy.netlify.app/) | My  one of my initial dynamic websites based on API | Vanilla.js, Central Bank API
+
