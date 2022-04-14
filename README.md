@@ -8,13 +8,12 @@ You can click the Preview link to take a look at your changes.
 --->
 Project's name | Description | Used technologies | 
 ---------------|-------------|-------------------|
-[Maxcellon](https://www.maxcellon.uz/)| Real, commercial project for a company which products cars/machines for construction industry. | jQuery, GSAP, Swiper.js, [Figma](https://www.figma.com/file/HvaPStSivHENQcOFZyrIwJ/Maxcelon?node-id=334%3A0)
+[Maxcellon](https://www.maxcellon.uz/)| Real, commercial project for a company which products cars/machines for construction industry. | jQuery, GSAP, Swiper.js, [Figma](https://www.figma.com/file/HvaPStSivHENQcOFZyrIwJ/Maxcelon?node-id=334%3A0) 
 [Wemax](https://wemaxpro.com)| Real, commercial project for Wemax which is UAE's telecom and network company. | GSAP, Gulp, SCSS, Swiper.js, Figma
-[Quotator](https://quotator.netlify.app) | A service that generate famous quotes on well-designed images. | VueJS, Vuesax, webpack, Vue Router, html2canvas, Axios
-Resume maker | A service to create and to download a resume, but I couldn't build for production cause of a bug on building, but you can see on [this github repo](https://github.com/Muhammad-uzbek/vue-resume-latest) | VueJS, file-saver, less, webpack
-[BM HisoBOT](https://t.me/bmhisobot) |  A private telegram bot that clients can get their debt/fee with this market. You can type this fake number(991112233) to see how works this bot | NodeJS, SheetDB, node-telegram-bot-api
-[Corona-stat](https://corona-stat.netlify.app/)| A Web app that shows you statistics of Coronavirus around the world. | React.js, Chart.js, Material UI, Axios
-[Weather app](https://ohibobo.netlify.app/) | Just a my first web app in React.js | React.js
-[Face detection](https://yuz-aniqla.netlify.app/)| Face detection app predicts your age, gender and mood, then accordingly writes humour or compliment | Vanilla.JS( Promises, Canvas), Face-api.js
-[Currency exchange](https://dollor-rassiskiy.netlify.app/) | My  one of my initial dynamic websites based on API | Vanilla.js, Central Bank API
-
+[Quotator](https://quotator.netlify.app) * [GH Repo] (https://github.com/Muhammad-uzbek/qoutetor)| A service that generate famous quotes on well-designed images. | VueJS, Vuesax, webpack, Vue Router, html2canvas, Axios
+Resume maker*[GH repo](https://github.com/Muhammad-uzbek/vue-resume-latest) | A service to create and to download a resume | VueJS, file-saver, less, webpack
+[IT time](https://ittime.uz) | IT-oriented news website | Pure JS, PHP, SwiperJS, NodeJS, Express
+[Diktor uz bot](t.me/diktor_uzbot) | Text-to-speech bot, works in Uzbek language, It has options: female or male voice and mp3 or ogg | NodeJS, yagop-telegram-bot-api
+[Corona-stat](https://corona-stat.netlify.app/)*[GH repo](https://github.com/Muhammad-uzbek/covid)| A Web app that shows you statistics of Coronavirus around the world. | React.js, Chart.js, Material UI, Axios
+[Face detection](https://yuz-aniqla.netlify.app/)*[GH repo](https://github.com/Muhammad-uzbek/face_detection_uz)| Face detection app predicts your age, gender and mood, then accordingly writes humour or compliment | Vanilla.JS( Promises, Canvas), Face-api.js
+*
