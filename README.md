@@ -5,6 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Project's name | Description | Used technologies | 
 ---------------|-------------|-------------------|
+[Biesse](https://biesse.uz)| Real, commercial project for Biesse.uz which is a official branch of Biesse.com | NextJS, ReactJS, Firebase
 [Maxcellon](https://www.maxcellon.uz/)| Real, commercial project for a company which products cars/machines for construction industry. | jQuery, GSAP, Swiper.js, [Figma](https://www.figma.com/file/HvaPStSivHENQcOFZyrIwJ/Maxcelon?node-id=334%3A0) 
 [Wemax](https://wemaxpro.com)| Real, commercial project for Wemax which is UAE's telecom and network company. | GSAP, Gulp, SCSS, Swiper.js, Figma
 [Quotator](https://quotator.netlify.app) <br/> [GH Repo](https://github.com/Muhammad-uzbek/qoutetor)| A service that generate famous quotes on well-designed images. | VueJS, Vuesax, webpack, Vue Router, html2canvas, Axios
